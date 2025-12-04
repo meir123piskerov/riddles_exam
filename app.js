@@ -17,7 +17,7 @@ while (flag) {
     let user_choice = input(
       "riddle: (enter the number of the riddle u want to solve) \nstatus: (to see the status) \nexit: (to exit the game):"
     );
-    if (user_choice === "1" || "2" || "exit" || "status") {
+    if (user_choice == "1" || "2" || "3" || "exit" || "status") {
       switch (user_choice) {
         case "1":
           console.log("first riddle:");
