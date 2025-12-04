@@ -1,0 +1,24 @@
+{
+  "name": "riddles_exam",
+  "version": "1.0.0",
+  "description": "\"# riddles_exam\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meir123piskerov/riddles_exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/meir123piskerov/riddles_exam/issues"
+  },
+  "homepage": "https://github.com/meir123piskerov/riddles_exam#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1"
+  }
+}
